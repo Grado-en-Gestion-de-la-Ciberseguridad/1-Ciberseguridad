@@ -8,24 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"00. Daily Notes\"  ",
+      "query": "path:\"!Resumen Diario\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13172480
       }
     },
     {
-      "query": "path:\"99. Obsidian/00. Templates/00. Template Resources\" path:\"00. Daily Notes\"  ",
+      "query": "path:\"99._Obsidian/00. Templates/00. Template Resources\" path:\"00. Daily Notes\"  ",
       "color": {
         "a": 1,
         "rgb": 3552822
-      }
-    },
-    {
-      "query": "tag:#Chemistry  ",
-      "color": {
-        "a": 1,
-        "rgb": 327424
       }
     },
     {
@@ -36,10 +29,10 @@
       }
     },
     {
-      "query": "tag:#Language  ",
+      "query": "tag:#index  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 5723991
       }
     },
     {
@@ -47,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 14642175
+      }
+    },
+    {
+      "query": "tag:#Derecho  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.03590926640144978,
+  "scale": 0.05034417736651909,
   "close": true
 }
