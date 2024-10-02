@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"00. Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"99. Obsidian/00. Templates/00. Template Resources\" path:\"00. Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3552822
+      }
+    },
+    {
+      "query": "tag:#Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 327424
+      }
+    },
+    {
+      "query": "path:\"03. Fast Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "tag:#Language  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Linux",
+      "color": {
+        "a": 1,
+        "rgb": 14642175
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1.11397333333333,
+  "lineSizeMultiplier": 1.00247111111111,
+  "collapse-forces": false,
+  "centerStrength": 0.296257796257796,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.03590926640144978,
+  "close": true
+}

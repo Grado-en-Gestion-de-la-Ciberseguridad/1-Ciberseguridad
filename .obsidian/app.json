@@ -1,0 +1,20 @@
+{
+  "showInlineTitle": true,
+  "autoPairMarkdown": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99._Obsidian/01. Inserts",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "99. Obsidian/01. Inserts/"
+  ],
+  "showFrontmatter": true,
+  "propertiesInDocument": "visible",
+  "autoPairBrackets": false,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "showLineNumber": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
+}

@@ -1,0 +1,49 @@
+:root {
+    --Hbox: #9fef00
+}
+
+/* Change color of inline code text for notes with the .hbox class */
+.hbox code,
+.hbox .markdown-preview-view code,
+.hbox .cm-s-obsidian .cm-inline-code,
+.hbox .cm-inline-code {
+    color: #9fef00 !important;
+}
+
+/* Change color of links for notes with the .hbox class */
+.hbox a,
+.hbox .markdown-preview-view a,
+.hbox .cm-s-obsidian .cm-hmd-internal-link,
+.hbox table a {
+    color: var(--Hbox) !important;
+}
+
+
+/* Change color of link hover state for notes with the .hbox class */
+.hbox a:hover,
+.hbox .markdown-preview-view a:hover,
+.hbox .cm-s-obsidian .cm-hmd-internal-link:hover,
+.hbox table a:hover {
+    color: var(--Hbox) !important;
+}
+
+
+/* Change border color of code blocks for notes with the .hbox class */
+.hbox pre,
+.hbox .markdown-preview-view pre,
+.hbox .CodeMirror pre,
+.hbox pre {
+    border-color: var(--Hbox) !important;
+}
+
+/* Adjust border color for code blocks outside tables */
+.hbox pre {
+    border-color: var(--Hbox) !important;
+}
+
+strong,
+.markdown-preview-view strong,
+.cm-s-obsidian .cm-strong,
+table strong {
+    color: var(--Hbox) !important;
+}

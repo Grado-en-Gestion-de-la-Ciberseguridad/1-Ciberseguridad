@@ -1,0 +1,14 @@
+# Obsidian configs
+.obsidian/*
+99._Obsidian/*
+
+# Git files
+.git/*
+
+# Hidden files
+.*
+
+# Credentials
+creds-*
+
+.copyignore

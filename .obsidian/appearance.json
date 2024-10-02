@@ -1,0 +1,23 @@
+{
+  "accentColor": "#00b3ff",
+  "enabledCssSnippets": [
+    "Notebook Backgrounds",
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Japanese Font Support",
+    "Minecraft",
+    "Runescape",
+    "justify",
+    "code-accent",
+    "code"
+  ],
+  "cssTheme": "Vanilla AMOLED",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSize": 17,
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSizeAction": true
+}
