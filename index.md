@@ -5,11 +5,9 @@ tags:
 cssclasses:
   - hbox
 ---
-![[99. Obsidian/01. Inserts/image.webp]]
-
+![[99._Obsidian/01. Inserts/image.webp]]
 ---
 # ¡Bienvenido a la Página de Apuntes en Línea!
-
 Esta página es la **versión online** de los apuntes del repositorio [Grado en Gestión de la Ciberseguridad - 1º Ciberseguridad](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad). Aquí podrás consultar los apuntes de manera rápida y accesible desde cualquier lugar.
 
 ### Importante:
@@ -23,8 +21,9 @@ Te recomendamos visitar directamente el repositorio en GitHub, donde podrás acc
 Si detectas algún error o tienes sugerencias para mejorar los apuntes, eres bienvenido a colaborar directamente en el [repositorio original](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad).
 
 ---
----
 # 📢Alertas
+
+---
 ### 📢 Anuncio Importante: Organización en GitHub para Colaboradores
   He creado una organización en GitHub con el propósito de compartir recursos y notas. Esta organización se ha creado para que nadie tenga control exclusivo sobre las notas, y todos los colaboradores puedan contribuir equitativamente. 
   
