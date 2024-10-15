@@ -2,5 +2,5 @@
   "format": "DD-MM-YY",
   "folder": "!Resumen Diario",
   "template": "99._Obsidian/00. Templates/Daily note",
-  "autorun": true
+  "autorun": false
 }
