@@ -1,5 +1,5 @@
 ---
-title: 00. File_index
+title: <% tp.file.title %>
 daft: "false"
 tags: 
 cssclasses:
