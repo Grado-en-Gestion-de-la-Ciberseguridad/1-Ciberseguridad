@@ -5,6 +5,7 @@ tags:
 cssclasses:
   - hbox
 ---
+
 ![[99._Obsidian/01. Inserts/image.webp]]
 ---
 # ¡Bienvenido a la Página de Apuntes en Línea!
