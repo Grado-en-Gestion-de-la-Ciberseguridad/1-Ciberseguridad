@@ -3,3 +3,9 @@
 .obsidian/plugins/recent-files-obsidian/data.json
 *.mp4
 
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

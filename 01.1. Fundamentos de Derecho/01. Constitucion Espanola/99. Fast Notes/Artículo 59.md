@@ -5,7 +5,7 @@ tags:
 cssclasses:
   - hbox
 ---
-##### Artículo 59
+## Artículo 59
 ---
 Created by: [@raf181_](https://github.com/raf181)  | Date: `2024-10-21`
 

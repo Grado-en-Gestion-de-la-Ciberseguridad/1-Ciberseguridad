@@ -13,7 +13,7 @@
     "code"
   ],
   "cssTheme": "Vanilla AMOLED",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono,Satoshi",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "baseFontSize": 17,

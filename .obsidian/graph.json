@@ -1,19 +1,12 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:\"!Resumen Diario\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 13172480
-      }
-    },
     {
       "query": "path:\"99._Obsidian/00. Templates/00. Template Resources\" path:\"00. Daily Notes\"  ",
       "color": {
@@ -32,7 +25,7 @@
       "query": "tag:#index  ",
       "color": {
         "a": 1,
-        "rgb": 5723991
+        "rgb": 16711680
       }
     },
     {
@@ -50,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
+  "collapse-display": true,
+  "showArrow": false,
   "textFadeMultiplier": -2.2,
   "nodeSizeMultiplier": 1.11397333333333,
   "lineSizeMultiplier": 1.00247111111111,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.296257796257796,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 2.9030989544097716,
-  "close": true
+  "scale": 0.8854989543150591,
+  "close": false
 }

@@ -11,10 +11,11 @@
   "obsidian-advanced-slides",
   "table-editor-obsidian",
   "obsidian-banners",
-  "homework-manager",
   "obsidian-tasks-plugin",
   "obsidian-git",
   "obsidian-mind-map",
   "obsidian-style-settings",
-  "longform"
+  "longform",
+  "obsidian-minimal-settings",
+  "smart-second-brain"
 ]
