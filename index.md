@@ -20,20 +20,8 @@ Te recomendamos visitar directamente el repositorio en GitHub, donde podrás acc
 
 ### Cómo contribuir:
 Si detectas algún error o tienes sugerencias para mejorar los apuntes, eres bienvenido a colaborar directamente en el [repositorio original](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad).
+The project is open source and is under the [GPL-3.0 license](https://github.com/raf181/Ghostkey/blob/main/LICENSE), and I have no intention of changing that. Since it has the following conditions:
 
----
-# 📢Alertas
-
----
-### 📢 Anuncio Importante: Organización en GitHub para Colaboradores
-  He creado una organización en GitHub con el propósito de compartir recursos y notas. Esta organización se ha creado para que nadie tenga control exclusivo sobre las notas, y todos los colaboradores puedan contribuir equitativamente. 
-  
-  🔐 ¿Cómo participar? Para unirte, envíame un mensaje directo (@rafa181_) con tu nombre de usuario de GitHub y una breve descripción de tu base de conocimientos, para asignar los roles apropiadamente. Recuerda: solo aquellos que colaboren activamente tendrán acceso completo a las notas y al contenido compartido, el cual incluye material que otros han pagado y compartido aquí. Si no colaboras, tu acceso será limitado. 
-
----
-###  📢 Actualización   
-Para Nuevos Colaboradores Entendemos que para aquellos que son nuevos en el campo de la ciberseguridad, puede ser complicado compartir muchos recursos al principio. ¡Y eso está bien! Lo importante es que participes y aprendas en el proceso. Sin embargo, debes tener en cuenta que el contenido pago al que hacemos referencia es de un nivel avanzado. Incluye notas y recursos para certificaciones como OSCP, CompTIA, y los cursos de ciberseguridad de CISCO. Este material está diseñado para gente con experiencia, por lo que puede estar muy por encima del nivel de quienes recién comienzan. Si estás aquí para aprender, contribuye en lo que puedas y verás cómo tu conocimiento crece. Con el tiempo, serás capaz de compartir contenido más avanzado y obtener acceso completo a estos valiosos recursos. 
-
----
-### 📢 **Solicitud de Ayuda: Revisores de Commits y Gestión de la Organización**
-Estamos buscando colaboradores con experiencia en **GitHub** para ayudar a gestionar la organización y actuar como **revisores de Commits**. Si tienes buen manejo de GitHub y deseas contribuir de forma más activa en la administración, ¡esta es tu oportunidad! Voy a revisar los perfiles de GitHub de quienes estén interesados para evaluar el nivel de conocimiento aparente y asignar roles según corresponda. Si estás dispuesto a colaborar en la gestión, por favor, envíame un mensaje directo (@me) con tu GitHub y cualquier información relevante sobre tu experiencia. Tu apoyo será clave para mantener la calidad y eficiencia de nuestra organización.
+| Permissions                                                                                | Limitations               | Conditions                                                                                   |
+| ------------------------------------------------------------------------------------------ | ------------------------- | -------------------------------------------------------------------------------------------- |
+| Commercial use ✔️<br>Modification ✔️<br>Distribution ✔️<br>Patent use ✔️<br>Private use ✔️ | Liability ❌<br>Warranty ❌ | License and copyright notice ℹ️<br>State changes ℹ️<br>Disclose source ℹ️<br>Same license ℹ️ |

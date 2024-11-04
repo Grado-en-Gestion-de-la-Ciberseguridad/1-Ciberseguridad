@@ -107,6 +107,8 @@ these to suit your own folder structure and vault theme!
   );
 }
 
+
+
 /* ------------------------------- 01 Prefix -------------------------------- */
 .nav-folder-title[data-path^="01"] {
   color: var(--cyan);
