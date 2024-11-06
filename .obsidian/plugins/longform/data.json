@@ -6,6 +6,38 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2024-11-05T08:42:09.982Z",
+      "total": 0,
+      "drafts": {
+        "05.1 Seguridad y Alta Disponibilidad/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "04.1 Programacion/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "02.1. Matemáticas Aplicadas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "01.1. Fundamentos de Derecho/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "00.0. Principiantes/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2024-11-04T15:45:12.822Z",
       "total": 0,
       "drafts": {
@@ -1045,51 +1077,6 @@
           }
         },
         "04.1 Programacion/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "02.1. Matemáticas Aplicadas/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "01.1. Fundamentos de Derecho/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "00.1. ORGA/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "00.0. Principiantes/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-09-16T09:43:15.867Z",
-      "total": 0,
-      "drafts": {
-        "05.1 Seguridad y Alta Disponibilidad/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0,
-            "Untitled": 0
-          }
-        },
-        "04.1 Programacion/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "03.1. INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS/Index.md": {
           "total": 0,
           "scenes": {
             "README": 0
