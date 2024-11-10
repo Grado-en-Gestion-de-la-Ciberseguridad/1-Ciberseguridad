@@ -6,6 +6,70 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2024-11-09T16:42:01.261Z",
+      "total": 0,
+      "drafts": {
+        "04.1 Programacion/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "05.1 Seguridad y Alta Disponibilidad/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "02.1. Matemáticas Aplicadas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "01.1. Fundamentos de Derecho/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "00.0. Principiantes/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2024-11-06T11:55:26.634Z",
+      "total": 0,
+      "drafts": {
+        "05.1 Seguridad y Alta Disponibilidad/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "04.1 Programacion/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "02.1. Matemáticas Aplicadas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "01.1. Fundamentos de Derecho/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "00.0. Principiantes/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2024-11-05T08:42:09.982Z",
       "total": 0,
       "drafts": {
@@ -982,101 +1046,6 @@
           }
         },
         "03.1. INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "02.1. Matemáticas Aplicadas/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "01.1. Fundamentos de Derecho/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "00.1. ORGA/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "00.0. Principiantes/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-09-23T10:35:33.118Z",
-      "total": 0,
-      "drafts": {
-        "05.1 Seguridad y Alta Disponibilidad/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "04.1 Programacion/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "03.1. INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "02.1. Matemáticas Aplicadas/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "01.1. Fundamentos de Derecho/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "00.1. ORGA/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "00.0. Principiantes/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "03.1. INTRODUCCION A LOS ESTUDIOS UNIVERSITARIOS/Index.md": {
-          "total": 32,
-          "scenes": {
-            "README": 32
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-09-17T08:18:55.290Z",
-      "total": 0,
-      "drafts": {
-        "05.1 Seguridad y Alta Disponibilidad/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0,
-            "Untitled": 0
-          }
-        },
-        "03.1. INTRODUCCIÓN A LOS ESTUDIOS UNIVERSITARIOS/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "04.1 Programacion/Index.md": {
           "total": 0,
           "scenes": {
             "README": 0
