@@ -2,7 +2,7 @@ import os
 import urllib.parse  # For encoding spaces in URLs
 
 # GitHub repository URL (replace with your actual GitHub repository URL)
-GITHUB_REPO_URL = "https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad-web/tree/v4/content"  # Modify this URL
+GITHUB_REPO_URL = "https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main/"  # Modify this URL
 
 # Function to create an Obsidian-style link for .md and .pdf files, including the file extension
 def create_obsidian_link(file_name, directory, base_directory):
@@ -64,9 +64,12 @@ def create_file_index(directory, base_directory):
         content += "## Files\n\n"
         for file in sorted(files):
             ext = os.path.splitext(file)[1].lower()
-            if ext in ['.md', '.pdf']:
+            if ext == '.md':
                 # Obsidian link with full relative path from base directory
                 link = create_obsidian_link(file, directory, base_directory)
+            elif ext == '.pdf':
+                # GitHub link for raw PDF files
+                link = create_github_link(file, directory, base_directory)
             else:
                 # GitHub link with encoded path
                 link = create_github_link(file, directory, base_directory)
