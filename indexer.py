@@ -28,7 +28,7 @@ def delete_existing_index_file(directory, index_file_name):
 def create_file_index(directory, base_directory):
     # Get directory name
     dir_name = os.path.basename(os.path.abspath(directory))
-    index_file_name = f"00. {dir_name}.md"
+    index_file_name = f"!{dir_name}.md"
     index_file_path = os.path.join(directory, index_file_name)
 
     # List subdirectories, excluding those starting with '.'
@@ -52,7 +52,7 @@ def create_file_index(directory, base_directory):
     if subdirs:
         content += "## Child Directories\n\n"
         for subdir in sorted(subdirs):
-            subdir_index_file = f"00. {subdir}.md"
+            subdir_index_file = f"!{subdir}.md"
             subdir_index_full_path = os.path.join(directory, subdir, subdir_index_file)
             # Get the relative path from the base directory to the child index file
             subdir_index_relative_path = os.path.relpath(subdir_index_full_path, base_directory).replace("\\", "/")
@@ -88,7 +88,7 @@ def scan_and_create(base_directory):
 
         # Determine directory name for index file
         dir_name = os.path.basename(os.path.abspath(root))
-        index_file_name = f"00. {dir_name}.md"
+        index_file_name = f"!{dir_name}.md"
 
         # Delete existing index file before creating a new one
         delete_existing_index_file(root, index_file_name)
