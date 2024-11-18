@@ -6,7 +6,7 @@ cssclasses:
   - hbox
 ---
 
-![[99._Obsidian/01. Inserts/image.webp]]
+![[99. Inserts/image.webp]]
 ---
 # ¡Bienvenido a la Página de Apuntes en Línea!
 Esta página es la **versión online** de los apuntes del repositorio [Grado en Gestión de la Ciberseguridad - 1º Ciberseguridad](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad). Aquí podrás consultar los apuntes de manera rápida y accesible desde cualquier lugar.

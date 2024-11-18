@@ -42,7 +42,7 @@ def create_file_index(directory, base_directory):
         f for f in os.listdir(directory)
         if os.path.isfile(os.path.join(directory, f)) and
            f != index_file_name and
-           not (f.startswith("00. ") and f.endswith(".md"))
+           not (f.startswith("!") and f.endswith(".md"))
     ]
 
     # Prepare content with title and #index tag

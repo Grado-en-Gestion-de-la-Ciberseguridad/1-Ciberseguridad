@@ -8,5 +8,8 @@
 # Hidden files
 .*
 
+# PDF
+*.pdf
+
 # Credentials
 creds-*
