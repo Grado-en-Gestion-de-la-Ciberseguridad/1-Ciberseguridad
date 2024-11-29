@@ -11,7 +11,8 @@
 - [[02.1. Matemáticas Aplicadas/!02.1. Matemáticas Aplicadas.md]]
 - [[03.1. INTRODUCCION A LOS ESTUDIOS UNIVERSITARIOS/!03.1. INTRODUCCION A LOS ESTUDIOS UNIVERSITARIOS.md]]
 - [[04.1 Programacion/!04.1 Programacion.md]]
-- [[05.1 Seguridad y Alta Disponibilidad/!05.1 Seguridad y Alta Disponibilidad.md]]
+- [[05.1 Fundamentos TIC/!05.1 Fundamentos TIC.md]]
+- [[98. Sample setup/!98. Sample setup.md]]
 - [[99. Inserts/!99. Inserts.md]]
 - [[99._Obsidian/!99._Obsidian.md]]
 
