@@ -1,0 +1,23 @@
+Copy paste Commands
+en
+conf t
+hostname switch 3
+banner motd #NO Unauthorised Access!!!#
+no ip domain lookup
+line console 0
+passw cisco
+login
+exit
+enable password cisco
+service password-encryption
+do wr
+ip domain name test_domai.net
+username root password cisco
+crypto key generate rsa
+1024
+line vty 0 15
+login local
+transport input ssh
+transport input ssh 
+exit
+do wr

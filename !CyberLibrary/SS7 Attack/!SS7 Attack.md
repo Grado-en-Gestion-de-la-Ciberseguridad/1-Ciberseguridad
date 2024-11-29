@@ -3,14 +3,14 @@
 
 ## Files
 
-- [[!CyberLibrary/SS7 Attack/Cellular location tracking attacks using signalling protocols by Aalto University.pdf]]
-- [[!CyberLibrary/SS7 Attack/Hacking mobile network via SS7 - interception, shadowing and more by Dmitry Kurbatov.pdf]]
-- [[!CyberLibrary/SS7 Attack/NO BROKEN LINK - The Vulnerability of Telecommunication Infrastructure to Natural Hazards by Himmat Singh Sandhu and Siddhartha Raja.pdf]]
-- [[!CyberLibrary/SS7 Attack/SCTPscan - Finding entry points to SS7 Networks & Telecommunications Backbones by Philippe Langlois.pdf]]
-- [[!CyberLibrary/SS7 Attack/SIGNALING SYSTEM 7 (SS7) - SECURITY REPORT.pdf]]
-- [[!CyberLibrary/SS7 Attack/SS7 - Locate. Track. Manipulate. by Tobias Engel.pdf]]
-- [[!CyberLibrary/SS7 Attack/Signaling System 7 (SS7).pdf]]
-- [[!CyberLibrary/SS7 Attack/Stealthy SS7 Attacks by Sergey Puzankov.pdf]]
-- [[!CyberLibrary/SS7 Attack/Telecommunications Infrastructure - Security SS7 Signalling Security by Philippe Langlois.pdf]]
-- [[!CyberLibrary/SS7 Attack/Telecommunications Infrastructure Security_Getting in the SS7 kingdom - hard technology and disturbingly easy hacksto get entry points in the walled garden.pdf]]
-- [[!CyberLibrary/SS7 Attack/Vulnerabilities of signaling system number 7 (SS7) to cyber attacks and how to mitigate against these vulnerabilities. by Bob Kamwendo.pdf]]
+- [Cellular location tracking attacks using signalling protocols by Aalto University.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/Cellular%20location%20tracking%20attacks%20using%20signalling%20protocols%20by%20Aalto%20University.pdf)
+- [Hacking mobile network via SS7 - interception, shadowing and more by Dmitry Kurbatov.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/Hacking%20mobile%20network%20via%20SS7%20-%20interception%2C%20shadowing%20and%20more%20by%20Dmitry%20Kurbatov.pdf)
+- [NO BROKEN LINK - The Vulnerability of Telecommunication Infrastructure to Natural Hazards by Himmat Singh Sandhu and Siddhartha Raja.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/NO%20BROKEN%20LINK%20-%20The%20Vulnerability%20of%20Telecommunication%20Infrastructure%20to%20Natural%20Hazards%20by%20Himmat%20Singh%20Sandhu%20and%20Siddhartha%20Raja.pdf)
+- [SCTPscan - Finding entry points to SS7 Networks & Telecommunications Backbones by Philippe Langlois.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/SCTPscan%20-%20Finding%20entry%20points%20to%20SS7%20Networks%20%26%20Telecommunications%20Backbones%20by%20Philippe%20Langlois.pdf)
+- [SIGNALING SYSTEM 7 (SS7) - SECURITY REPORT.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/SIGNALING%20SYSTEM%207%20%28SS7%29%20-%20SECURITY%20REPORT.pdf)
+- [SS7 - Locate. Track. Manipulate. by Tobias Engel.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/SS7%20-%20Locate.%20Track.%20Manipulate.%20by%20Tobias%20Engel.pdf)
+- [Signaling System 7 (SS7).pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/Signaling%20System%207%20%28SS7%29.pdf)
+- [Stealthy SS7 Attacks by Sergey Puzankov.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/Stealthy%20SS7%20Attacks%20by%20Sergey%20Puzankov.pdf)
+- [Telecommunications Infrastructure - Security SS7 Signalling Security by Philippe Langlois.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/Telecommunications%20Infrastructure%20-%20Security%20SS7%20Signalling%20Security%20by%20Philippe%20Langlois.pdf)
+- [Telecommunications Infrastructure Security_Getting in the SS7 kingdom - hard technology and disturbingly easy hacksto get entry points in the walled garden.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/Telecommunications%20Infrastructure%20Security_Getting%20in%20the%20SS7%20kingdom%20-%20hard%20technology%20and%20disturbingly%20easy%20hacksto%20get%20entry%20points%20in%20the%20walled%20garden.pdf)
+- [Vulnerabilities of signaling system number 7 (SS7) to cyber attacks and how to mitigate against these vulnerabilities. by Bob Kamwendo.pdf](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//%21CyberLibrary/SS7%20Attack/Vulnerabilities%20of%20signaling%20system%20number%207%20%28SS7%29%20to%20cyber%20attacks%20and%20how%20to%20mitigate%20against%20these%20vulnerabilities.%20by%20Bob%20Kamwendo.pdf)

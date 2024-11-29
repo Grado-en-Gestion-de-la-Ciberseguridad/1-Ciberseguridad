@@ -17,10 +17,10 @@
 
 ## Files
 
-- [.copyignore](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad-web/tree/v4/content/.copyignore)
-- [.gitignore](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad-web/tree/v4/content/.gitignore)
-- [LICENSE](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad-web/tree/v4/content/LICENSE)
+- [.copyignore](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//.copyignore)
+- [.gitignore](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//.gitignore)
+- [LICENSE](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//LICENSE)
 - [[index.md]]
-- [indexer-online.py](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad-web/tree/v4/content/indexer-online.py)
-- [indexer.py](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad-web/tree/v4/content/indexer.py)
-- [puss-to-web.ps1](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad-web/tree/v4/content/puss-to-web.ps1)
+- [indexer-online.py](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//indexer-online.py)
+- [indexer.py](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//indexer.py)
+- [puss-to-web.ps1](https://github.com/Grado-en-Gestion-de-la-Ciberseguridad/1-Ciberseguridad/blob/main//puss-to-web.ps1)

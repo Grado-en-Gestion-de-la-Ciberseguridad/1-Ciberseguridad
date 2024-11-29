@@ -16,7 +16,7 @@
   "textFontFamily": "JetBrainsMono Nerd Font Mono,Satoshi",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "baseFontSize": 19,
+  "baseFontSize": 18,
   "translucency": false,
   "theme": "obsidian",
   "baseFontSizeAction": true
