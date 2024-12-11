@@ -36,18 +36,18 @@ El método actual para desencriptar RSA es adivinando los factores de $N$ (el n�
 Esto se hace siguiendo estos pasos:
 1. Empezamos definiendo $N$, del que necesitaremos encontrar los dos factores $f$ y $h$ para desencriptar los datos.
 2. Elegimos un numero aleatorio un número, por ejemplo, $f$. No necesitamos que $f$ sea un factor puro de $N$; podría ser un número que comparta un factor con $N$, ya que podemos usar el algoritmo de Euclides para encontrar los factores comunes, y si el **[[#Algoritmo de Euclides]]** encuentra un factor común, podríamos dividir N por el factor común para obtener el otro factor y desencriptar los datos. Sin embargo, las posibilidades de que esto suceda son inferiores al 0,005%.
-3. Utilizaremos una formula matematica para transformar nuestra suposición incorrecta "$f$" en dos suposiciones mejores, utilizando esta fórmula $f^{P\above{1pt}2}±1$. Esta fórmula se basa en el hecho matemático de que si tomas un par de números enteros "a y b" que no comparten un factor y multiplicas uno de ellos "a" por sí mismo suficientes veces "$P$", llegarás a "$a^P = m* b +1$", donde $m$ es un número entero
+3. Utilizaremos una formula matematica para transformar nuestra suposición incorrecta "$f$" en dos suposiciones mejores, utilizando esta fórmula $f^{P\above{1pt}2}±1$. Esta fórmula se basa en el hecho matemático de que si tomas un par de números enteros "a y b" que no comparten un factor y multiplicas uno de ellos "$a$" por sí mismo suficientes veces "$P$", llegarás a "$a^P = m* b +1$", donde $m$ es un número entero
 
-Demostración: Tomamos a=7 y b=15,
+Demostración: Tomamos $a=7$ y $b=15$,
 $7^2=3*15+4$ → no sigue la forma $a^P=m*b+1$
 $7^3=22*15+13$ → no sigue la forma $a^P=m*b+1$
 $7^4=160*15+1$ → $a^P=m*b+1$
 
 Por lo tanto, en nuestro ejemplo con nuestro número N y nuestra suposición $f$, estamos garantizados que $f^P=m*N+1$. Si restamos $1$ de ambos lados, se puede reescribir como $(f^{P\above{1pt}2}+1)*(f^{P\above{1pt}2}-1)=m*N$, que se parece mucho a $N=f*h$. Por lo tanto, $(f^{P\above{1pt}2}±1)$ son las nuevas y mejoradas suposiciones. Pero como estamos tratando con múltiplos de N "$m*N$", los términos en los lados podrían ser múltiplos de los factores de N, pero podemos usar el **[[#Algoritmo de Euclides]]** para encontrar los factores comunes.
 
-Demostración: "siguiendo la demostración anterior, P=4"
-$7^{4\above{1pt}2}+1=50$
-$7^{4\above{1pt}2}-1=48$
+Demostración: "siguiendo la demostración anterior, $P=4$"
+$$7^{4\above{1pt}2}+1=50$$
+$$7^{4\above{1pt}2}-1=48$$
 Ninguno de estos es un factor de 15, pero podemos encontrar los factores comunes utilizando el algoritmo de Euclides, y así encontramos 5 y 3.
 
 Pero este proceso tiene tres problemas principales:
@@ -58,9 +58,9 @@ Pero este proceso tiene tres problemas principales:
 # Algoritmo de Shor en Ordenadores cuánticos
 Aquí es donde la computación cuántica hace que este problema de encontrar $P$ sea nulo. A diferencia de la computación normal, que solo proporciona una respuesta para una entrada dada, una computadora cuántica puede calcular simultáneamente muchas respuestas posibles para un solo numero utilizando una superposición cuántica, mientras que todas las respuestas incorrectas interfieren destructivamente entre sí. Aquí es donde entra en juego el algoritmo de Shor, así es cómo funciona:
 
-En este punto, hemos hecho una suposición g y estamos tratando de encontrar p para que $g^p=m*N+1$, donde p que sigue esa propiedad es muy probable que comparta factores con N.
+En este punto, hemos hecho una suposición $g$ y estamos tratando de encontrar p para que $g^p=m*N+1$, donde p que sigue esa propiedad es muy probable que comparta factores con $N$.
 $$ g→ p→ g^{P\above{1pt}2}±1$$
-Aquí es donde configuramos una computadora cuántica que toma un número "$x$" como entrada y eleva $g$ a la potencia de $x$ "$g^x$" y luego calcula cuántas veces N es un múltiplo más grande de lo que obtuvimos.
+Aquí es donde configuramos una computadora cuántica que toma un número "$x$" como entrada y eleva $g$ a la potencia de $x$ "$g^x$" y luego calcula cuántas veces $N$ es un múltiplo más grande de lo que obtuvimos.
 $$
 |x> → |g^x|→ |x,g^x> → |>m*N|→|x,+r>
 $$

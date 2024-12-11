@@ -6,6 +6,32 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2024-12-11T18:06:16.179Z",
+      "total": 0,
+      "drafts": {
+        "04.1 Programacion/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "02.1. Matemáticas Aplicadas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "README": 0
+          }
+        },
+        "01.1. Fundamentos de Derecho/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "00.0. Principiantes/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2024-12-10T19:14:23.479Z",
       "total": 0,
       "drafts": {
@@ -849,38 +875,6 @@
     },
     {
       "start": "2024-10-20T15:09:34.768Z",
-      "total": 0,
-      "drafts": {
-        "05.1 Seguridad y Alta Disponibilidad/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "04.1 Programacion/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "02.1. Matemáticas Aplicadas/Index.md": {
-          "total": 0,
-          "scenes": {
-            "README": 0
-          }
-        },
-        "01.1. Fundamentos de Derecho/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "00.0. Principiantes/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-10-19T10:54:35.380Z",
       "total": 0,
       "drafts": {
         "05.1 Seguridad y Alta Disponibilidad/Index.md": {
