@@ -100,7 +100,8 @@
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "00. Daily Notes": "LiNotepadText",
   "03. Fast Notes": "RaFastShip",
